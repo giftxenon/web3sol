@@ -100,3 +100,4 @@ const cars = ["Saab", "Volvo", "BMW"];
 // Date object:
 const date = new Date("2022-03-25");
 let x = "Volvo" + 16 + 4;
+let x = 16 + 4 + "Volvo";
