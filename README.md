@@ -34,6 +34,11 @@ People[] public people;
     // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.17;
 
+let x = 10;
+switch(x) {
+  case 10: alert("Hello");
+}
+
 contract Counter {
     uint public count;
 
