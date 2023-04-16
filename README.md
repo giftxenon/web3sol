@@ -116,3 +116,11 @@ let z = x + y;     // Now z is 15
 let x = 10;
 let y = "5";
 let z = x + y;     // Now z is "105"
+let x = 0.1;
+let y = 0.2;
+let z = x + y   
+
+function myFunction(a) {
+  let power = 10;
+  return a * power;
+}
