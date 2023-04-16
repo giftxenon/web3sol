@@ -106,3 +106,13 @@ const cars = ["Saab", "Volvo", "BMW"];
 const date = new Date("2022-03-25");
 let x = "Volvo" + 16 + 4;
 let x = 16 + 4 + "Volvo";
+
+// adding and concatenation
+
+let x = 10;
+let y = 5;
+let z = x + y;     // Now z is 15
+
+let x = 10;
+let y = "5";
+let z = x + y;     // Now z is "105"
